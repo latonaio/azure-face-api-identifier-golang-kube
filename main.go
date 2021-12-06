@@ -1,8 +1,8 @@
 package main
 
 import (
-	"azure-face-api-identifier-kube-golang/src/identifier"
-	"azure-face-api-identifier-kube-golang/src/model"
+	"azure-face-api-identifier-golang-kube/src/identifier"
+	"azure-face-api-identifier-golang-kube/src/model"
 	"context"
 	"database/sql"
 	"os"

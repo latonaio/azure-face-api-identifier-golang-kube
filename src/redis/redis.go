@@ -1,7 +1,7 @@
 package redis
 
 import (
-	"azure-face-api-identifier-kube-golang/src/model"
+	"azure-face-api-identifier-golang-kube/src/model"
 
 	"github.com/gomodule/redigo/redis"
 )

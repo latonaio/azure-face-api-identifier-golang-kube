@@ -1,8 +1,8 @@
 package common
 
 import (
-	"azure-face-api-identifier-kube-golang/src/model"
-	"azure-face-api-identifier-kube-golang/src/redis"
+	"azure-face-api-identifier-golang-kube/src/model"
+	"azure-face-api-identifier-golang-kube/src/redis"
 	"fmt"
 	"strconv"
 

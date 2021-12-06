@@ -21,6 +21,6 @@ FROM alpine:3.14
 
 RUN apk add --no-cache libc6-compat tzdata
 
-COPY --from=builder /go/src/latonaio/azure-face-api-identifier-kube-golang .
+COPY --from=builder /go/src/latonaio/azure-face-api-identifier-golang-kube .
 
-CMD ["./azure-face-api-identifier-kube-golang"]
+CMD ["./azure-face-api-identifier-golang-kube"]

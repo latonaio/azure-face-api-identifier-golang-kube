@@ -1,4 +1,4 @@
-# azure-face-api-identifier-kube-golang
+# azure-face-api-identifier-golang-kube
 ## 概要  
 1枚の画像を Azure Face API(Detect) にかけ、返り値として、画像に映っているすべての人物の顔の位置座標(X軸/Y軸)、性別・年齢等の情報を取得します。  
 Azure Face API の仕様により、顔の位置座標を形成する長方形の面積が最も広い顔が先頭に来ます。  

@@ -1,4 +1,4 @@
-module azure-face-api-identifier-kube-golang
+module azure-face-api-identifier-golang-kube
 
 go 1.17
 
