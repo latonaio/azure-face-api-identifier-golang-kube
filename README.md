@@ -79,7 +79,7 @@ Azure/go-autorest/autorest v0.11.22
 			"imagePath": setPersonParam.ImgPath,
 			"faceId":    faceID,
 			"responseData": map[string][]face.IdentifyCandidate{
-				"candidates": candidateList,
+			"candidates": candidateList,
 			},
 		}
 ```
