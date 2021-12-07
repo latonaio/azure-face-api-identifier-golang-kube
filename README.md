@@ -29,7 +29,7 @@ $ bash train.sh
 azure-face-api の version を指定します。  
 本レポジトリの main.go では、下記のように記載されています。  
 ```
-Azure/azure-sdk-for-go/services/cognitiveservices/v1.0/face"
+Azure/azure-sdk-for-go/services/cognitiveservices/v1.0/face
 
 ```
 
